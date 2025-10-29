@@ -15,7 +15,7 @@ pip install -r requirements.txt
 🚀 Jalankan Aplikasi GUI
 python face_recognition_gui.py
 
-2. Menambahkan Data Training & Test
+## 2. Menambahkan Data Training & Test
 📸 Tambah Orang Baru
 
 Buat folder baru di:
@@ -35,7 +35,7 @@ dataset/train/Rafi/
 ⚙️ Update label di face_recognition_gui.py
 
 
-🧠 4. Latih Ulang Model
+## 🧠 3. Latih Ulang Model
 
 Setelah menambah data baru, jalankan ulang:
 
@@ -46,7 +46,7 @@ Hasil model baru otomatis disimpan sebagai:
 
 face_cnn_model.h5
 
-🧾 5. Lihat Hasil Absensi
+## 🧾 4. Lihat Hasil Absensi
 
 Data tersimpan otomatis di file:
 
